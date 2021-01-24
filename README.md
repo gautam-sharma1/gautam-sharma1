@@ -49,6 +49,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <a href="https://github.com/gautam-sharma1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gautam-sharma1&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
+<br>
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats
 <!--
 <a href="https://github.com/MartinHeinz/python-project-blueprint">
