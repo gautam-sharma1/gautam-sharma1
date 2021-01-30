@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 
 
 <p align='center'>
-  </a>&nbsp;&nbsp;
+ <a href="https://gautam-sharma1.github.io"><img height="30" src="images/www.svg"></a>
+ </a>&nbsp;&nbsp;
 <a href="https://medium.com/@gautam-s"><img height="30" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/medium.svg"></a>
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/gautamsharm/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
@@ -34,11 +35,12 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational)
-![](https://img.shields.io/badge/Editor-Visual Studio-important)
+![](https://img.shields.io/badge/Editor-Visual_Studio-important)
 ![](https://img.shields.io/badge/Code-C++-green)
-![](https://img.shields.io/badge/Code-Make-green)
+![](https://img.shields.io/badge/Code-Python-green)
 ![](https://img.shields.io/badge/Shell-Bash-green)
-
+![](https://img.shields.io/badge/Code-MATLAB-green)
+![](https://img.shields.io/badge/Code-Make-blueviolet)
 
 ## &#x1f4c8; GitHub Stats
 
@@ -64,15 +66,6 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
 <!-- links to your social media accounts -->
