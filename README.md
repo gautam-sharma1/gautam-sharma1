@@ -20,12 +20,13 @@ Here are some ideas to get you started:
 
 
 <p align='center'>
-
+  </a>&nbsp;&nbsp;
+<a href="https://medium.com/@gautam-s"><img height="30" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/medium.svg"></a>
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/gautamsharm/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-My name is Gautam Sharma and I'm a robotics/AI/ML software developer. I'm from India, living in United States and currently working. You can find me on [![LinkedIn][3.2]][3].
+My name is Gautam Sharma and I'm a robotics/AI/ML software developer. I'm from India, living in United States and currently about to graduate in MS in Artificial Intelligence from Arizona State University. You can find me on [![LinkedIn][3.2]][3].
 
 ## &#x270d; Blog & Writing
 
