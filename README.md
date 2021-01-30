@@ -20,14 +20,12 @@ Here are some ideas to get you started:
 
 
 <p align='center'>
- <a href="https://gautam-sharma1.github.io"><img height="30" src="images/www.svg"></a>
- </a>&nbsp;&nbsp;
 <a href="https://medium.com/@gautam-s"><img height="30" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/medium.svg"></a>
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/gautamsharm/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-My name is Gautam Sharma and I'm a robotics/AI/ML software developer. I'm from India, living in United States and currently about to graduate in MS in Artificial Intelligence from Arizona State University. You can find me on [![LinkedIn][3.2]][3].
+My name is Gautam Sharma and I'm a robotics/AI/ML software developer. I'm from :inida:, living in :us: and currently about to graduate in MS in Artificial Intelligence from Arizona State University. You can find me on [![LinkedIn][2.2]][1].
 
 ## &#x270d; Blog & Writing
 
@@ -63,17 +61,19 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 </a>    
 -->
 
-<!-- links to social media icons -->
 
-<!-- icons with padding -->
+<!-- Actual text -->
+<!--You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
 
 
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://github.com/MartinHeinz
-[3]: https://www.linkedin.com/in/heinz-martin/
-
+[1]: https://www.linkedin.com/in/gautamsharm/
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
