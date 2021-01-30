@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/gautamsharm/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-My name is Gautam Sharma and I'm a robotics/AI/ML software developer. I'm from :india:, living in :us: and currently about to graduate in MS in Artificial Intelligence from Arizona State University. You can find me on [![LinkedIn][2.2]][1]. I am a national level :soccer: player and occasionally delve into a gamen during my free time. 
+My name is Gautam Sharma and I'm a robotics/AI/ML software developer. I'm from :india:, living in :us: and currently about to graduate in MS in Artificial Intelligence from Arizona State University. I am a national level :soccer: player and occasionally delve into a game during my free time. You can find me on [![LinkedIn][2.2]][1].
 
 ## &#x270d; Blog & Writing
 
