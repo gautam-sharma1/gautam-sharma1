@@ -31,7 +31,7 @@ My name is Gautam Sharma and I'm a robotics/AI/ML software developer. I'm from :
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [gsharma](https://gautam-sharma1.github.io) as well as on [Medium](https://medium.com/@gautam-s).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [gsharma](https://sharmagautam.com) as well as on [Medium](https://medium.com/@gautam-s).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational)
